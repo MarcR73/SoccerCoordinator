@@ -12,6 +12,7 @@
 		5D4E6A5C1CAAF5EB00EE3B88 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5D4E6A5A1CAAF5EB00EE3B88 /* Main.storyboard */; };
 		5D4E6A5E1CAAF5EB00EE3B88 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5D4E6A5D1CAAF5EB00EE3B88 /* Assets.xcassets */; };
 		5D4E6A611CAAF5EB00EE3B88 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5D4E6A5F1CAAF5EB00EE3B88 /* LaunchScreen.storyboard */; };
+		FB75F5CF1E5F4AC2009D7F4C /* SoccerPlayerInfo.xlsx in Resources */ = {isa = PBXBuildFile; fileRef = FB75F5CE1E5F4AC2009D7F4C /* SoccerPlayerInfo.xlsx */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -23,6 +24,7 @@
 		5D4E6A601CAAF5EB00EE3B88 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		5D4E6A621CAAF5EB00EE3B88 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		FB75F5CD1E5F49D6009D7F4C /* SoccerCoordinator.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = SoccerCoordinator.playground; sourceTree = SOURCE_ROOT; };
+		FB75F5CE1E5F4AC2009D7F4C /* SoccerPlayerInfo.xlsx */ = {isa = PBXFileReference; lastKnownFileType = file; name = SoccerPlayerInfo.xlsx; path = ../../../../Downloads/SoccerPlayerInfo.xlsx; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 				5D4E6A5A1CAAF5EB00EE3B88 /* Main.storyboard */,
 				5D4E6A5D1CAAF5EB00EE3B88 /* Assets.xcassets */,
 				5D4E6A5F1CAAF5EB00EE3B88 /* LaunchScreen.storyboard */,
+				FB75F5CE1E5F4AC2009D7F4C /* SoccerPlayerInfo.xlsx */,
 				5D4E6A621CAAF5EB00EE3B88 /* Info.plist */,
 			);
 			path = SoccerCoordinator;
@@ -128,6 +131,7 @@
 			files = (
 				5D4E6A611CAAF5EB00EE3B88 /* LaunchScreen.storyboard in Resources */,
 				5D4E6A5E1CAAF5EB00EE3B88 /* Assets.xcassets in Resources */,
+				FB75F5CF1E5F4AC2009D7F4C /* SoccerPlayerInfo.xlsx in Resources */,
 				5D4E6A5C1CAAF5EB00EE3B88 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
